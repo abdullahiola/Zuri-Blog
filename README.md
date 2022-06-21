@@ -1,1 +1,1 @@
-# Zuri-Blog
+# DJANGO CRUD TASK
